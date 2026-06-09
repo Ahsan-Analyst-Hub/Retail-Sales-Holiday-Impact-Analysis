@@ -1,4 +1,7 @@
 # Retail Sales & Holiday Impact Analysis
+<img width="1375" height="784" alt="Image" src="https://github.com/user-attachments/assets/306f313c-a16e-429e-b112-47cb0c7ccecc" />
+
+---
 
 ## Project Overview
 
@@ -130,6 +133,21 @@ This structure supports scalable reporting, time intelligence calculations, and 
 
 * Impact of CPI and unemployment on sales
 * Identification of economically sensitive stores
+
+---
+
+## Dashboard Screenshots 
+
+### Exective Summary 
+<img width="675" height="389" alt="Image" src="https://github.com/user-attachments/assets/a0b5f7a7-34ca-4e1b-aca9-71d11c5cf5db" />
+
+---
+### Holiday Performance Analysis
+<img width="674" height="392" alt="Image" src="https://github.com/user-attachments/assets/f3d03d5d-0be8-43a0-8db7-f6ae6d754f13" />
+
+---
+### Markdown Effectiveness Analysis
+<img width="674" height="389" alt="Image" src="https://github.com/user-attachments/assets/889624c2-5cfb-440e-826f-648e37d08087" />
 
 ---
 
